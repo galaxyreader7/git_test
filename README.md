@@ -1,1 +1,0 @@
-This is galaxyreader7's first git project! An addition!
